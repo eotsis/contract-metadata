@@ -1,0 +1,8 @@
+{ 
+  "0x91e88c584a94e59774ff4bddfa7b7953f03b0b45": {
+    "name": "Climate Carbon Energy",
+    "logo": "CCE.svg",
+    "erc20": true,
+    "symbol": "CCE",
+    "decimals": 18
+  },

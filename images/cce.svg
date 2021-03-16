@@ -1,0 +1,37 @@
+<svg id="레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2228.73 2228.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(986.36 986.46)">
+      <path class="cls-1" d="M36,39H155.57a52.43,52.43,0,0,1,37.53,89,52.39,52.39,0,0,1-37.53,89H89.26a15.87,15.87,0,0,1,0-31.73h66.31a20.69,20.69,0,1,0,0-41.37H89.26a15.87,15.87,0,0,1,0-31.74h66.31a20.69,20.69,0,1,0,0-41.38h-142A128,128,0,1,0,256,129.6v-3.24A128,128,0,0,0,36,39"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="154.34" y1="696.37" x2="253.08" y2="696.37" gradientTransform="translate(25181.05 -5571.24) rotate(90) scale(34.56)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#182987"/>
+      <stop offset="0.17" stop-color="#182987"/>
+      <stop offset="0.83" stop-color="#171c61"/>
+      <stop offset="1" stop-color="#171c61"/>
+    </linearGradient>
+  </defs>
+  <title>cce</title>
+  <g>
+    <circle class="cls-2" cx="1114.36" cy="1114.46" r="128"/>
+    <g class="cls-3">
+      <rect class="cls-4" width="2228.73" height="2228.93"/>
+    </g>
+  </g>
+</svg>
