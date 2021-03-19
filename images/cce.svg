@@ -1,4 +1,4 @@
-<svg id="레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2228.73 2228.93">
+<svg id="레이어_1" data-name="레이어 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17411.94" height="17413.49" viewBox="0 0 17411.94 17413.49">
   <defs>
     <style>
       .cls-1 {
@@ -17,10 +17,10 @@
         fill: url(#linear-gradient);
       }
     </style>
-    <clipPath id="clip-path" transform="translate(986.36 986.46)">
-      <path class="cls-1" d="M36,39H155.57a52.43,52.43,0,0,1,37.53,89,52.39,52.39,0,0,1-37.53,89H89.26a15.87,15.87,0,0,1,0-31.73h66.31a20.69,20.69,0,1,0,0-41.37H89.26a15.87,15.87,0,0,1,0-31.74h66.31a20.69,20.69,0,1,0,0-41.38h-142A128,128,0,1,0,256,129.6v-3.24A128,128,0,0,0,36,39"/>
+    <clipPath id="clip-path" transform="translate(7705.97 7706.75)">
+      <path class="cls-1" d="M281.29,304.61h934.13c225.73,0,409.39,184,409.39,409.78,0,111-44.3,211.76-116.24,285.65,71.94,73.9,116.24,174.55,116.24,285.48,0,225.93-183.66,409.6-409.39,409.6H697.32c-68.3,0-123.77-55.46-123.77-124.31,0-68.22,55.47-123.51,123.77-123.51h518.1c89.12,0,161.59-72.74,161.59-161.78s-72.47-161.44-161.59-161.44H697.32c-68.3,0-123.77-55.64-123.77-124S629,876.09,697.32,876.09h518.1c89.12,0,161.59-72.47,161.59-161.7,0-88.95-72.47-161.61-161.59-161.61H105.6A994.77,994.77,0,0,0,0,1000c0,552.35,447.66,1000,1000,1000,548.05,0,993.23-440.79,1000.05-987.46V987.2C1993.18,440.79,1548,0,1000,0,718,0,463.17,117.13,281.29,304.61"/>
     </clipPath>
-    <linearGradient id="linear-gradient" x1="154.34" y1="696.37" x2="253.08" y2="696.37" gradientTransform="translate(25181.05 -5571.24) rotate(90) scale(34.56)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linear-gradient" x1="759.88" y1="1568.37" x2="1531.31" y2="1568.37" gradientTransform="translate(62909.24 -28115.54) rotate(90) scale(34.56)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#182987"/>
       <stop offset="0.17" stop-color="#182987"/>
       <stop offset="0.83" stop-color="#171c61"/>
@@ -29,9 +29,9 @@
   </defs>
   <title>cce</title>
   <g>
-    <circle class="cls-2" cx="1114.36" cy="1114.46" r="128"/>
+    <circle class="cls-2" cx="8705.97" cy="8706.75" r="1000"/>
     <g class="cls-3">
-      <rect class="cls-4" width="2228.73" height="2228.93"/>
+      <rect class="cls-4" width="17411.94" height="17413.49"/>
     </g>
   </g>
 </svg>
